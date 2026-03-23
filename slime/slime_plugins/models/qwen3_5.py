@@ -15,7 +15,7 @@ try:
 except ImportError:
     pass
 
-from .hf_attention import HuggingfaceAttention, _load_hf_config
+from .hf_attention import HuggingfaceAttention
 
 
 def _get_text_config(hf_config):
