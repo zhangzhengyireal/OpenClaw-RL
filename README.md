@@ -43,6 +43,8 @@
 
 ## 📰 News
 
+
+- **[2026/3/25]** 🙌 We sincerely thank [Tinker](https://thinkingmachines.ai/tinker/) for its generous support of this project, which has enabled more experiments and faster iteration.
 - **[2026/3/20]** 🔥 You can use your own openclaw now, simply install [this extension](https://github.com/Gen-Verse/OpenClaw-RL/tree/main/extensions/rl-training-headers).
 - **[2026/3/13]** 🚀 OpenClaw-RL now supports both local GPU and cloud ([Tinker](https://thinkingmachines.ai/tinker/)) deployment. Launch with [**one line of code**](#combinemethod) — Hybrid RL, OPD, and Binary RL all supported!
 - **[2026/3/12]** 🔥 We support LoRA training now!
